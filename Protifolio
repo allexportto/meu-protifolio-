@@ -1,0 +1,38 @@
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Primeiro Projeto</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bem-vindo ao meu projeto!</h1>
+    <nav>
+      <ul>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="sobre">
+      <h2>Sobre Mim</h2>
+      <p>  
+Olá! Sou Alex tenho 32 anos e estou cursando Sistemas de Informação. Possuo conhecimento em diversas linguagens de programação, incluindo HTML, CSS, Java, Java Script, C, C++, Front-End., Python e PH
+Meu primeiro projeto solo foi a criação de um site para Google Ads, desenvolvido para um psicólogo. Embora o site. Ainda não tenha sido lançado na rede, estou sempre aprimorando o site 
+Tenho grande interesse em estagiar com profissionais experientes para ampliar minhas habilidades e ganhar mais experiência prática. Além disso, em breve pretendo incluir o domínio da língua inglesa no meu vocabulário, ampliando mais conhecimento...
+  .</p>
+    </section>
+    <section id="contato">
+      <h2>Contato</h2>
+      <p>Email: alexsandroporto622@gmail.com /n <p>Cel (19) 97103-5896</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Alex Porto</p>
+  </footer>
+</body>
+</html>
+
+
